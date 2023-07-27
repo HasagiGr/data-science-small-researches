@@ -1,8 +1,8 @@
 ## Projects
-* [Project_1 - Intro in Data Science with titanic](#project_1)
+* [Project_1 - Intro into Data Science with titanic](#project_1)
 * [Project_2 - Student's dropout or success](#project_2)
 
-## Project_1 - Intro in Data Science with titanic
+## Project_1 - Intro into Data Science with titanic
 This project is entry point to data analysis and data science.\
 Task: predict if the passanger on titanic survived (binary classification).\
 Learn how to:
